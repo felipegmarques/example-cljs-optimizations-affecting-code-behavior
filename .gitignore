@@ -1,0 +1,23 @@
+**/.cpcache
+**/.rebel_readline_history
+**/.nrepl-port
+**/target/*/**
+**/log/*
+**/*.iml
+!**/target/*/.gitkeep
+**/.DS_STORE
+**/.m2/
+
+# pack'd output
+/*.jar
+**/*.jar
+out/
+**/.vscode
+**/.clj-kondo/.cache
+**/.idea/
+**/*.iml
+**/node_modules/
+**/target/
+**/.nrepl-port
+**/yarn-error.log
+

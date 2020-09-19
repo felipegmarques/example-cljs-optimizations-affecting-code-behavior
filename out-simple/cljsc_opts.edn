@@ -1,0 +1,1 @@
+{:browser-repl true, :output-dir "out-simple", :optimizations :simple, :verbose true, :main hello-world.core, :output-to "out-simple/main.js", :aot-cache true}

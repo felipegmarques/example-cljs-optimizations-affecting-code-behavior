@@ -1,0 +1,1 @@
+{:output-dir "out-advanced", :optimizations :advanced, :verbose true, :main hello-world.core, :output-to "out-advanced/main.js", :aot-cache true}
